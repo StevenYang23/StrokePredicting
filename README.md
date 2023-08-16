@@ -4,7 +4,7 @@
 Machine learning models predicting probability of stroke.
 
 ## Result(performance):
-![](https://github.com/StevenYang23/FlagRaisingGame/blob/main/screenshot.png)
+![](https://github.com/StevenYang23/StrokePredicting/blob/main/testPer.png)
 
 ## Package: 
 pandas, sklearn.preprocessing, sklearn.linear_model, sklearn.neural_network, sklearn.tree,sklearn.ensemble, matplotlib.pyplot, numpy
